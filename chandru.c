@@ -1,1 +1,1 @@
-hello peter
+todays session in git commands
